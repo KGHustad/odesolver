@@ -5,5 +5,5 @@ A class hierarchy of ODE solvers from the book *A Primer on Scientific Programmi
 
 ## Installation
 ```
-pip install git+https://github.com/KGHustad/odesolver#egg=odesolver
+pip install --user git+https://github.com/KGHustad/odesolver#egg=odesolver
 ```
